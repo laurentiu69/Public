@@ -8,7 +8,7 @@ npm install express ejs morgan body-parser --save
 ```
 if npm install hangs then 
 dezactivate antivirus who stop creation of node_modules in current directory
-https://sebhastian.com/npm-install-hangs/ mainly npm config get registry && npm config set registry https://registry.npmjs.org
+https://sebhastian.com/npm-install-hangs/ meaning npm config get registry && npm config set registry https://registry.npmjs.org
 ```
 npm install express-generator  --global                 //no need to be in production
 express --view=ejs                                      // generate the express skeleton app
